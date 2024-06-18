@@ -1,4 +1,4 @@
-ENGR 516 — Assignment3 Docker Project
+Docker Client Server Project
 
 Socket programming was developed in Python to establish communication both the server and client applications. Within this setup, the server is responsible for creating a 1KB file containing random text data. Subsequently, it transmits this file to the client alongside its checksum. Upon reception, the client saves the file in the "/clientdata" directory and confirms the integrity of the data by verifying the checksum.
 
